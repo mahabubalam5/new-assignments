@@ -111,3 +111,61 @@
     padding-top: 16px;
     
 }
+.positive{
+    padding-top:184px ;
+    background-image:linear-gradient(to left,rgba(255,0,0,0),rgba(255, 102, 0, 0.9)), url('../images/watch.png');
+    padding: 60px 0px 60px 65px ;
+    margin-top: 125px;
+   height: 187px;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+.positive-title{
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+}
+.white-button{ 
+    padding: 20px 25px;
+    border: 0;
+    border-radius: 5px;
+    color: orangered;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 24px;
+
+}
+.contacts{
+    display: flex;
+    justify-content:space-around ;
+    padding-top: 130px;
+    background-color: black;
+   color: white; 
+   margin-top: 130px;
+  height: 577px;
+  font-size: 18px;
+font-weight: 400;
+}
+
+.future-description{
+    padding-top: 16px;
+}
+.image{
+    padding-top: 20px;
+    padding-right: 20px;
+}
+.subscribe-title{
+    font-size: 30px;
+    font-weight: 500;
+}
+.email{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background: none;
+    width: 300px;
+    padding: 15px;
+    color: white;
+    border: 3px solid white;
+    border-radius: 5px;
+
+}
